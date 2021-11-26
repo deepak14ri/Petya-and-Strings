@@ -1,0 +1,23 @@
+import java.io.*;
+import java.util.*;
+public class Main {
+    public static void main(String args[]) {
+        
+        Scanner sc = new Scanner(System.in);
+        String s = sc.nextLine();
+        String p = sc.nextLine();
+        s = s.toLowerCase();
+        p = p.toLowerCase();
+        int compare = s.compareTo(p);
+        if(compare>0){
+            System.out.println(1);
+        }
+        if(compare<1){
+            System.out.println(-1);
+        }
+        else{
+            System.out.println(0);
+        }
+
+    }
+}
