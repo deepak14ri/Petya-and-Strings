@@ -1,4 +1,3 @@
-# Petya-and-Strings
 
 Little Petya loves presents. His mum bought him two strings of the same size for his birthday. The strings consist of uppercase and lowercase Latin letters. Now Petya wants to compare those two strings lexicographically. The case of the letter does not matter, that is an uppercase letter is considered equivalent to the corresponding lowercase letter. Help Petya perform the comparison.
 
@@ -33,7 +32,3 @@ AbCdEfF
 Output
 1
 
-Note
-If you want more formal information about the lexicographical order (also known as the "dictionary order" or "alphabetical order"), you can visit the following site:
-
-http://en.wikipedia.org/wiki/Lexicographical_order
